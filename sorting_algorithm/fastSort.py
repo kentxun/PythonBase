@@ -10,7 +10,7 @@ class QuickSort:
         return res
 
 a = QuickSort()
-out = a.quickSort([1,3,4,5,2,6])
+#out = a.quickSort([1,3,4,5,2,6])
 
 
 def quick_sort(L):
@@ -23,6 +23,13 @@ def q_sort(L, left, right):
         q_sort(L, left, pivot - 1)
         q_sort(L, pivot + 1, right)
     return L
+
+'''
+取 a[l] 作为切分元素，然后从数组的左端向右扫描直到找到第一个大于等于它的元素，
+再从数组的右端向左扫描找到第一个小于它的元素，交换这两个元素。
+不断进行这个过程，就可以保证左指针 i 的左侧元素都不大于切分元素，右指针 j 的右侧元素都不小于切分元素。
+当两个指针相遇时，将切分元素 a[l] 和 a[j] 交换位置。
+'''
 
 def Partition(L, left, right):
     pivotkey = L[left]
@@ -39,4 +46,4 @@ def Partition(L, left, right):
     return left
 
 L = [5, 9, 1, 11, 6, 7, 2, 4]
-
+out = quick_sort(L)
