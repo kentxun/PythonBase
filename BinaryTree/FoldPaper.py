@@ -62,7 +62,6 @@ class FoldPaper1:
                 temp = stack.pop()
                 return_list.append(temp.val)
                 x = temp.right
-
         return return_list
 
     def buildTree(self, n):

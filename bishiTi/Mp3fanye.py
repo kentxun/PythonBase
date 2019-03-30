@@ -26,7 +26,7 @@ else:
                 else:
                     cur_head=cur_head-1
         else:
-            if cur_head==music_num-3 and cur_pos==3
+            if cur_head==music_num-3 and cur_pos==3:
                 cur_head = 1
                 cur_pos =0
             else:
