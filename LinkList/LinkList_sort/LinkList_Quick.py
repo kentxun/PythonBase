@@ -1,8 +1,7 @@
-
-
 '''
 链表的快速排序实现 ，空间复杂度是O（1）
 '''
+
 class ListNode:
     def __init__(self, x):
         self.val = x
@@ -30,6 +29,7 @@ class Solution:
         little = node1
         big = node2
         tmp = low.next
+
         while tmp!=hight:
             if tmp.val <key:
                 little.next = tmp
@@ -38,6 +38,7 @@ class Solution:
                 big.next = tmp
                 big = tmp
             tmp=tmp.next
+
         big.next=hight # 保证后半部分
         little.next=low
         low.next =node2.next

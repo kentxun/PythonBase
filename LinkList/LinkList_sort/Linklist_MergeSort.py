@@ -19,13 +19,15 @@ class Solution:
         left = head
         right = mid.next
         mid.next = None
+
         self.sortList(left)
         self.sortList(right)
         return self.merge(left,right)
 
     def merge(self,p,q):
         tmp = ListNode(0)
-        h = tmp # 保留头结点
+        h = tmp
+        # 保留头结点
         while p and q:
             if p.val <q.val:
                 h.next = p
