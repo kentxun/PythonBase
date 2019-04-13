@@ -73,3 +73,30 @@ class TreeToSequence:
             res.append(stack2.pop().val)
 
         return res
+
+def levelOrder(root):
+    """
+    :type root: TreeNode
+    :rtype: List[List[int]]
+    """
+    if not root:
+        return []
+    nodes = [root]
+    values = []
+    while nodes:
+        temp = []
+        temp_nodes = []
+        for i in nodes:
+            temp.append(i.val)
+            left = i.left
+            right = i.right
+            if left:
+                temp_nodes.append(left)
+            if right:
+                temp_nodes.append(right)
+        nodes = temp_nodes
+        values.append(temp)
+    return values
+
+dict_a = {'code':1,'dept':2,'name':3,'a':1}
+print(dict_a)

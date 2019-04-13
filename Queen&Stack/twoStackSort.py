@@ -15,8 +15,8 @@
 
 class TwoStacks:
     def __init__(self):
-        self.stack =[]
-        self.stackmin=[]
+        self.stack = []
+        self.stackmin = []
 
     def twoStacksSort(self, numbers):
         # write code here
@@ -33,7 +33,7 @@ class TwoStacks:
                         if len(self.stackmin)==0:
                             self.stackmin.append(tmp)
                             break
-                        if self.stackmin[-1]<tmp:
+                        if self.stackmin[-1] < tmp:
                             self.stack.append(self.stackmin.pop())
                         else:
                             self.stackmin.append(tmp)

@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21aaaacb-efc9-4b4f-8757-3bfbad8b448d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bishiTi/arrPinjie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishiTi/sting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishiTi/stringSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishiTi/tencentQ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishiTi/tencentQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishiTi/tencentQ3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishiTi/tencentQ3（2）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/BinaryTreeDepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/BuildTreeUseInOderANDPost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/SortLinkListToST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/reverseSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicPlan/01bag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicPlan/最长上升子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicPlan/最长公共子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicPlan/最长公共子序列LCS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForOffer/FindNumbersWithSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForOffer/K-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/Non-overlaping Intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy Algorithm/assignCookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkList/LinkList_sort/path_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bishiTi/HUAWEI410.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bishiTi/HUAWEI4102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bishiTi/K_linkReverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bishiTi/checkLinkLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bishiTi/tencentA3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/BalanceTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/BalanceTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/CompletionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/CompletionTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/SearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/SearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/TreeToSeq_norecur.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/TreeToSeq_norecur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queen&amp;Stack/MaxTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/MaxTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queen&amp;Stack/SlideWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queen&amp;Stack/SlideWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queen&amp;Stack/StackwithGetmin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queen&amp;Stack/StackwithGetmin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queen&amp;Stack/twoStackSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Queen&amp;Stack/twoStackSort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +41,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode$SlideWindow.coverage" NAME="SlideWindow Coverage Results" MODIFIED="1551582566728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queen&amp;Stack" />
+    <SUITE FILE_PATH="coverage/leetcode$TreeToSeq_norecur.coverage" NAME="TreeToSeq_norecur Coverage Results" MODIFIED="1554712595925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/leetcode$arrPinjie.coverage" NAME="arrPinjie Coverage Results" MODIFIED="1554292266184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
+    <SUITE FILE_PATH="coverage/leetcode$FindNumbersWithSum.coverage" NAME="FindNumbersWithSum Coverage Results" MODIFIED="1554963146938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForOffer" />
+    <SUITE FILE_PATH="coverage/leetcode$HUAWEI410.coverage" NAME="HUAWEI410 Coverage Results" MODIFIED="1554896078195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$3_duplicate_num.coverage" NAME="3_duplicate_num Coverage Results" MODIFIED="1553069121946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForOffer" />
     <SUITE FILE_PATH="coverage/leetcode$SearchTree.coverage" NAME="SearchTree Coverage Results" MODIFIED="1553948654245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/leetcode$mp3.coverage" NAME="mp3 Coverage Results" MODIFIED="1553395308955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
@@ -45,13 +67,16 @@
     <SUITE FILE_PATH="coverage/leetcode$shellSort.coverage" NAME="shellSort Coverage Results" MODIFIED="1551354788610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithm" />
     <SUITE FILE_PATH="coverage/leetcode$SelectionSort.coverage" NAME="SelectionSort Coverage Results" MODIFIED="1551081909819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithm" />
     <SUITE FILE_PATH="coverage/leetcode$stringSet.coverage" NAME="stringSet Coverage Results" MODIFIED="1554296672037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
+    <SUITE FILE_PATH="coverage/leetcode$Non_overlaping_Intervals.coverage" NAME="Non-overlaping Intervals Coverage Results" MODIFIED="1554777938844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Greedy Algorithm" />
     <SUITE FILE_PATH="coverage/leetcode$CardStack.coverage" NAME="CardStack Coverage Results" MODIFIED="1552224894597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$Huawei2.coverage" NAME="Huawei2 Coverage Results" MODIFIED="1553690586377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
+    <SUITE FILE_PATH="coverage/leetcode$01bag.coverage" NAME="01bag Coverage Results" MODIFIED="1554773964725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPlan" />
     <SUITE FILE_PATH="coverage/leetcode$moveCount.coverage" NAME="moveCount Coverage Results" MODIFIED="1553948203926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
-    <SUITE FILE_PATH="coverage/leetcode$tencentQ3.coverage" NAME="tencentQ3 Coverage Results" MODIFIED="1554467713246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
+    <SUITE FILE_PATH="coverage/leetcode$tencentQ3.coverage" NAME="tencentQ3 Coverage Results" MODIFIED="1554628000451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1551080948791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithm" />
     <SUITE FILE_PATH="coverage/leetcode$TwoStack.coverage" NAME="TwoStack Coverage Results" MODIFIED="1551576345455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queen&amp;Stack" />
     <SUITE FILE_PATH="coverage/leetcode$DistinctSubstring.coverage" NAME="DistinctSubstring Coverage Results" MODIFIED="1551441032701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/leetcode$K_linkReverse.coverage" NAME="K_linkReverse Coverage Results" MODIFIED="1554725576995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$Mp3fanye.coverage" NAME="Mp3fanye Coverage Results" MODIFIED="1553394403372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$dp_TSP.coverage" NAME="dp_TSP Coverage Results" MODIFIED="1553759512387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$demical.coverage" NAME="demical Coverage Results" MODIFIED="1553846097142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
@@ -65,52 +90,80 @@
     <SUITE FILE_PATH="coverage/leetcode$LeftMostApperance.coverage" NAME="LeftMostApperance Coverage Results" MODIFIED="1551707545335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/splitSearch" />
     <SUITE FILE_PATH="coverage/leetcode$tencentQ2.coverage" NAME="tencentQ2 Coverage Results" MODIFIED="1554467007124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$fastSort.coverage" NAME="fastSort Coverage Results" MODIFIED="1552563709706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting_algorithm" />
+    <SUITE FILE_PATH="coverage/leetcode$path_split.coverage" NAME="path_split Coverage Results" MODIFIED="1554727493530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkList/LinkList_sort" />
     <SUITE FILE_PATH="coverage/leetcode$FoldPaper.coverage" NAME="FoldPaper Coverage Results" MODIFIED="1551784187725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinaryTree" />
     <SUITE FILE_PATH="coverage/leetcode$circle_word.coverage" NAME="circle_word Coverage Results" MODIFIED="1551079164885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$decimaltobin.coverage" NAME="decimaltobin Coverage Results" MODIFIED="1553945835223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$10_Fibonacci.coverage" NAME="10_Fibonacci Coverage Results" MODIFIED="1553160028338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForOffer" />
     <SUITE FILE_PATH="coverage/leetcode$Arr_del_num.coverage" NAME="Arr_del_num Coverage Results" MODIFIED="1553499650198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
     <SUITE FILE_PATH="coverage/leetcode$twoStackSort.coverage" NAME="twoStackSort Coverage Results" MODIFIED="1551579263366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queen&amp;Stack" />
+    <SUITE FILE_PATH="coverage/leetcode$.coverage" NAME="最长上升子序列 Coverage Results" MODIFIED="1554881219243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPlan" />
+    <SUITE FILE_PATH="coverage/leetcode$tencentA3.coverage" NAME="tencentA3 Coverage Results" MODIFIED="1554641257094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bishiTi" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bishiTi/tencentQ1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bishiTi/tencentQ3（2）.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Queen&amp;Stack/SlideWindow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-825" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bishiTi/dp_TSP.py">
+        <entry file="file://$PROJECT_DIR$/splitSearch/findPos.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bishiTi/findTargetNum.py">
+        <entry file="file://$PROJECT_DIR$/splitSearch/getLessIndex.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/BubbleSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="-215" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/CountingSort.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/fastSort.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/HeapSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/mergeSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/SelectionSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-590" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/RadixSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-590" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sorting_algorithm/InsertSort.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -128,30 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Queen&amp;Stack/Stack_structure.py" />
-        <option value="$PROJECT_DIR$/Queen&amp;Stack/divideBy2.py" />
-        <option value="$PROJECT_DIR$/Queen&amp;Stack/Deque.py" />
-        <option value="$PROJECT_DIR$/sorting_algorithm/fastSort.py" />
-        <option value="$PROJECT_DIR$/ForOffer/5_ReplaceSpace.py" />
-        <option value="$PROJECT_DIR$/ForOffer/3_duplicate_num.py" />
-        <option value="$PROJECT_DIR$/ForOffer/27_mirrorTree.py" />
-        <option value="$PROJECT_DIR$/ForOffer/23_EntryNodeOfLoop.py" />
-        <option value="$PROJECT_DIR$/LinkList/printListFromTailToHead.py" />
-        <option value="$PROJECT_DIR$/ForOffer/reConstructBinaryTree.py" />
-        <option value="$PROJECT_DIR$/ForOffer/7_reConstructBinaryTree.py" />
-        <option value="$PROJECT_DIR$/ForOffer/GetMidNext.py" />
-        <option value="$PROJECT_DIR$/ForOffer/9_twoStacktoQueen.py" />
-        <option value="$PROJECT_DIR$/ForOffer/8_GetMidNext.py" />
-        <option value="$PROJECT_DIR$/ForOffer/Fibonacci.py" />
-        <option value="$PROJECT_DIR$/ForOffer/10_Fibonacci.py" />
-        <option value="$PROJECT_DIR$/ForOffer/10.2_rectCover.py" />
-        <option value="$PROJECT_DIR$/ForOffer/10.3_JumpFloor.py" />
-        <option value="$PROJECT_DIR$/ForOffer/10.4_JumpFloorII.py" />
-        <option value="$PROJECT_DIR$/bishiTi/mp3.py" />
-        <option value="$PROJECT_DIR$/LinkList/Linklist_MergeSort.py" />
-        <option value="$PROJECT_DIR$/bishiTi/Mp3fanye.py" />
-        <option value="$PROJECT_DIR$/LinkList/LinkList_sort/LinkList_Quick.py" />
-        <option value="$PROJECT_DIR$/bishiTi/Arr_del_num.py" />
         <option value="$PROJECT_DIR$/bishiTi/Huawei2.py" />
         <option value="$PROJECT_DIR$/bishiTi/TSP_problem.py" />
         <option value="$PROJECT_DIR$/bishiTi/dp_TSP.py" />
@@ -169,7 +198,6 @@
         <option value="$PROJECT_DIR$/bishiTi/N_queen.py" />
         <option value="$PROJECT_DIR$/bishiTi/decimaltobin.py" />
         <option value="$PROJECT_DIR$/BinaryTree/FoldPaper.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/SearchTree.py" />
         <option value="$PROJECT_DIR$/bishiTi/moveCount.py" />
         <option value="$PROJECT_DIR$/bishiTi/arrPinjie.py" />
         <option value="H:/test.py" />
@@ -179,14 +207,39 @@
         <option value="$PROJECT_DIR$/bishiTi/tencentQ3.py" />
         <option value="$PROJECT_DIR$/bishiTi/tencentQ1.py" />
         <option value="$PROJECT_DIR$/bishiTi/tencentQ3（2）.py" />
+        <option value="$PROJECT_DIR$/Queen&amp;Stack/SlideWindow.py" />
+        <option value="$PROJECT_DIR$/Queen&amp;Stack/StackwithGetmin.py" />
+        <option value="$PROJECT_DIR$/Queen&amp;Stack/twoStackSort.py" />
+        <option value="$PROJECT_DIR$/bishiTi/tencentA3.py" />
+        <option value="$PROJECT_DIR$/DynamicPlan/最长公共子序列LCS.py" />
+        <option value="$PROJECT_DIR$/DynamicPlan/最长公共子串.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/SortLinkListToST.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/CompletionTree.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/reverseSequence.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/SearchTree.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/BuildTreeUseInOderANDPost.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/BalanceTree.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/TreeToSeq_norecur.py" />
+        <option value="$PROJECT_DIR$/bishiTi/K_linkReverse.py" />
+        <option value="$PROJECT_DIR$/bishiTi/checkLinkLoop.py" />
+        <option value="$PROJECT_DIR$/LinkList/LinkList_sort/path_split.py" />
+        <option value="$PROJECT_DIR$/DynamicPlan/01bag.py" />
+        <option value="$PROJECT_DIR$/Greedy Algorithm/assignCookie.py" />
+        <option value="$PROJECT_DIR$/Greedy Algorithm/Non-overlaping Intervals.py" />
+        <option value="$PROJECT_DIR$/DynamicPlan/最长上升子序列.py" />
+        <option value="$PROJECT_DIR$/bishiTi/HUAWEI4102.py" />
+        <option value="$PROJECT_DIR$/bishiTi/HUAWEI410.py" />
+        <option value="$PROJECT_DIR$/ForOffer/FindNumbersWithSum.py" />
+        <option value="$PROJECT_DIR$/ForOffer/K-sum.py" />
+        <option value="$PROJECT_DIR$/BinaryTree/BinaryTreeDepth.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="182" />
-    <option name="y" value="50" />
-    <option name="width" value="1054" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,7 +257,17 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Queen&amp;Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting_algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="splitSearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,9 +285,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\leetcode\BinaryTree" />
       <recent name="F:\leetcode\LinkList\LinkList_sort" />
       <recent name="F:\leetcode\ForOffer" />
-      <recent name="F:\leetcode\BinaryTree" />
       <recent name="F:\leetcode\String" />
       <recent name="F:\leetcode\sorting_algorithm" />
     </key>
@@ -244,8 +307,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tencentQ3">
-    <configuration name="arrPinjie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FindNumbersWithSum">
+    <configuration name="最长上升子序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +316,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bishiTi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPlan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bishiTi/arrPinjie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicPlan/最长上升子序列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +338,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bishiTi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPlan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bishiTi/sting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicPlan/01bag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stringSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FindNumbersWithSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,12 +360,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bishiTi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForOffer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bishiTi/stringSet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ForOffer/FindNumbersWithSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +374,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tencentQ2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HUAWEI410" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +387,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bishiTi/tencentQ2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bishiTi/HUAWEI410.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +396,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tencentQ3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Non-overlaping Intervals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,12 +404,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bishiTi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bishiTi/tencentQ3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy Algorithm/Non-overlaping Intervals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,11 +420,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tencentQ3" />
-        <item itemvalue="Python.tencentQ2" />
-        <item itemvalue="Python.stringSet" />
-        <item itemvalue="Python.sting" />
-        <item itemvalue="Python.arrPinjie" />
+        <item itemvalue="Python.FindNumbersWithSum" />
+        <item itemvalue="Python.HUAWEI410" />
+        <item itemvalue="Python.最长上升子序列" />
+        <item itemvalue="Python.Non-overlaping Intervals" />
+        <item itemvalue="Python.01bag" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +480,18 @@
       <workItem from="1554288087527" duration="9944000" />
       <workItem from="1554350979574" duration="35000" />
       <workItem from="1554463148157" duration="5537000" />
-      <workItem from="1554604787996" duration="850000" />
+      <workItem from="1554604787996" duration="7833000" />
+      <workItem from="1554634695400" duration="4069000" />
+      <workItem from="1554683378717" duration="16136000" />
+      <workItem from="1554770233559" duration="7812000" />
+      <workItem from="1554871565806" duration="7802000" />
+      <workItem from="1554960236946" duration="4036000" />
+      <workItem from="1555041838723" duration="1470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302236000" />
+    <option name="totallyTimeSpent" value="350544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,16 +503,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22692889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37770382" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35555556" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37704918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45901638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
@@ -459,6 +527,29 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.3295129" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37704918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35409835" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32777777" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32884097" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32962963" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3295129" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -528,7 +619,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Queen&amp;Stack/SlideWindow.py</url>
-          <line>51</line>
+          <line>53</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -576,338 +667,309 @@
           <line>10</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DynamicPlan/01bag.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/datetime.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/TreeToSeq_recursion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="1151" column="6" selection-start-line="1151" selection-start-column="6" selection-end-line="1151" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queen&amp;Stack/TwoStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state>
           <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/10.2_rectCover.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/SortLinkListToST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/8_GetMidNext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/10.3_JumpFloor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting_algorithm/mergeSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/mp3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/Mp3fanye.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/ReverseSentence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/10.4_JumpFloorII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/10.1_Fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43350">
-          <caret line="1734" selection-start-line="1734" selection-end-line="1734" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkList/LinkList_sort/Linklist_MergeSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/Arr_del_num.py">
+    <entry file="file://$PROJECT_DIR$/splitSearch/MinValue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/11_minNumberInRotateArray.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/reverseSequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        <state relative-caret-position="260">
+          <caret line="76" column="23" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/输入输出.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/SearchTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="100">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/XYGrid.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/TreetoString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="35">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForOffer/12_hasPath.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/CompletionTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        <state relative-caret-position="-65">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkList/LinkList_sort/LinkList_Quick.py">
+    <entry file="file://$PROJECT_DIR$/BinaryTree/TreeToSeq_norecur.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="2525">
+          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/Huawei2.py">
+    <entry file="file://$PROJECT_DIR$/Greedy Algorithm/assignCookie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="325">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/Huawei1.py">
+    <entry file="file://$PROJECT_DIR$/DynamicPlan/01bag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkList/LinkList_sort/path_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishiTi/checkLinkLoop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-          <folding>
-            <element signature="e#74#86#0" expanded="true" />
-          </folding>
+          <caret line="22" column="20" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishiTi/K_linkReverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="59" selection-start-line="59" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkList/ChkInterSection_circle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkList/ChkLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="37" selection-start-line="37" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/FindErrorSearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/LongestDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/BuildTreeUseInOderANDPost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/39 CombinationSun.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/MaxSubtree.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/SearchTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="52" selection-start-line="52" selection-end-line="54" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/CompletionTree.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/FoldPaper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/test.py" />
-    <entry file="file://$PROJECT_DIR$/LinkList/listDivide.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/arrPinjie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/TreeToSeq_norecur.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/decimaltobin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/TreetoString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="25" selection-start-line="11" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/tree_BFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/tencentQ2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/minCostClimbingStairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/backTracing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/stringSet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/tencentQ3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/N_queen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/sting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/demical.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/moveCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1057">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/TSP_problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/Stringdetemin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/ClimbTower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-492" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/CardStack.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/tencentQ1.py">
+    <entry file="file://$PROJECT_DIR$/DynamicPlan/最长公共子序列LCS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="16" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/dp_TSP.py">
+    <entry file="file://$PROJECT_DIR$/DynamicPlan/最长公共子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DynamicPlan/CountPenny.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/findTargetNum.py">
+    <entry file="file://$PROJECT_DIR$/DynamicPlan/最长上升子序列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="-132">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bishiTi/tencentQ3（2）.py">
+    <entry file="file://$PROJECT_DIR$/Greedy Algorithm/Non-overlaping Intervals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="310">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Queen&amp;Stack/SlideWindow.py">
+    <entry file="file://$PROJECT_DIR$/bishiTi/HUAWEI410.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="20" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/BalanceTree_Recur.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bishiTi/HUAWEI4102.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/BalanceTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="20" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree/BinaryTreeDepth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForOffer/FindNumbersWithSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForOffer/K-sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForOffer/10.1_Fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForOffer/4_findin_TwoArr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/DistinctSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/findSmallest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/IdenticaTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/Parentthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/PartTranslation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/ReplaceSpace.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-825" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/Rotation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/Transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitSearch/findPos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitSearch/getLessIndex.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/CountingSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/fastSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/mergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/SelectionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/RadixSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorting_algorithm/InsertSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -24,8 +24,21 @@ def isBSTree(head):
             else:
                 prenum = head.val
             head = head.right
-
     return True
+
+def isValidBST(root):
+    """
+    递归检查，与左孩子右孩子比较
+    """
+    if not root:
+        return True
+
+    def judge(now, up, down):
+        if not now:
+            return True
+        return down < now.val < up and judge(now.left, now.val, down) and judge(now.right, up, now.val)
+
+    return judge(root, float('inf'), float('-inf'))
 
 class node():
     def __init__(self, k=None, l=None, r=None):
@@ -43,8 +56,6 @@ def listcreattree(root,llist,i):###用列表递归创建二叉树，
             root.right=listcreattree(root.right, llist,2*i+2)
             return root
     return root
-
-
 
 
 if __name__ == '__main__':

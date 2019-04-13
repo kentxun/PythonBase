@@ -30,9 +30,11 @@ class SlideWindow:
             if len(self.queen)==0:
                 self.enQueen(i)
             else:
+                # 检查队列末尾 与当前 取得数 比较大小，如果大于，就存入index
                 if arr[self.queen[-1]]> arr[i]:
                     self.enQueen(i)
                 else:
+                    # 如果小于，则持续比较队列中的每一位，直到 队列末尾大于当前，存入
                     while  len(self.queen)!=0:
                         if  arr[self.queen[-1]] <= arr[i]:
                             self.queen.pop()
@@ -40,10 +42,10 @@ class SlideWindow:
                             break
                     self.enQueen(i)
 
-            # 弹出
+            # 弹出，队首在窗口期内，过期出队
             if self.queen[0] == i - w:
                 self.deQueen()
-
+            #  队首永远是当前窗口最大值，
             if i >=w-1:
                 res.append(arr[self.queen[0]])
 
