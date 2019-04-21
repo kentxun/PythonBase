@@ -6,6 +6,10 @@
 
 '''
 
+'''
+外层循环用来逐个扫描输入，假设当前扫描到的元素是X
+内层循环用来找出在X的左边（也就是已经扫描过的），且值比X小的元素E，使X能拼接到以E结尾的LIS的后面
+'''
 class Solution:
     def lengthOfLIS(self,nums):
         if len(nums) == 0:

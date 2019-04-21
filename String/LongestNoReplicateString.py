@@ -39,7 +39,7 @@ class DistinctSubstring:
                 dictA[A[i]] = i
             else:
                 dictA[A[i]] = i
-                length=i-pre
+                length= i-pre
                 maxlength=max(length,maxlength)
 
         return maxlength

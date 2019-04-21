@@ -19,7 +19,6 @@ class Solution:
                 if s1[i]==s2[j]:
                     dp[i][j] = dp[i-1][j-1] + 1
                     res = max(res , dp[i][j])
-
         return  res
 
     def getStringOut(self,s1,s2,dp):
