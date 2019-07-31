@@ -19,7 +19,6 @@ def quick_sort(L):
 def q_sort(L, left, right):
     if left < right:
         pivot = Partition(L, left, right)
-
         q_sort(L, left, pivot - 1)
         q_sort(L, pivot + 1, right)
     return L
