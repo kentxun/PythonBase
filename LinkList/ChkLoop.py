@@ -46,7 +46,7 @@ class ChkLoop:
         while fast and fast.next:
             fast = fast.next.next if fast.next else None
             slow = slow.next
-            # 第一次判定是 确定有环，第二次是确定如环位置
+            # 第一次判定是 确定有环，第二次是确入环位置
             if fast == slow:
                 fast = head
                 while fast!= slow:

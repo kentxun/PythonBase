@@ -12,5 +12,6 @@ class InsertionSort:
                     A[i],A[j]=A[j],A[i]
         return A
 
+
 a = InsertionSort()
 print(a.insertionSort([1,3,2,5,4],5))
