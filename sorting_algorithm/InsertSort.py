@@ -8,7 +8,7 @@ class InsertionSort:
     def insertionSort(self, A, n):
         for i in range(1,n):
             for j in range(i):
-                if A[i] < A[j]:
+                if A[i] > A[j]:
                     A[i],A[j]=A[j],A[i]
         return A
 

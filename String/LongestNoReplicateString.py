@@ -29,7 +29,7 @@ class DistinctSubstring:
         maxlength =0
         for i in range(n):
             if A[i] in dictA.keys():
-                if dictA[A[i]]>pre:
+                if dictA[A[i]] > pre:
                     length = i - dictA[A[i]]
                     pre = dictA[A[i]]
                 else:
