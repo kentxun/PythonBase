@@ -41,7 +41,9 @@ class DistinctSubstring:
                 dictA[A[i]] = i
                 length= i-pre
                 maxlength=max(length,maxlength)
-
         return maxlength
+
 a = DistinctSubstring()
 out = a.longestSubstring('aabadabda',9)
+
+

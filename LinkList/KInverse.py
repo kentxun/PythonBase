@@ -8,6 +8,7 @@
 '''
 
 # -*- coding:utf-8 -*-
+
 class ListNode:
     def __init__(self, x):
         self.val = x
@@ -43,3 +44,20 @@ class KInverse:
             current=current.next
 
         return pre_head.next
+
+if __name__ == '__main__':
+    import sys
+    line1 = sys.stdin.readline().split(' ')
+    k = int(sys.stdin.readline().strip())
+    tmp=head= ListNode(int(line1[0]))
+    for i in range(1, len(line1)-1):
+        tmp.next =  ListNode(int(line1[i]))
+        tmp=tmp.next
+    ob= KInverse()
+    out = ob.inverse(head,k)
+    res= []
+    while out.next:
+        res.append(str(out.val)+'->')
+        out=out.next
+    res.append(str(out.val))
+    print(''.join(res))

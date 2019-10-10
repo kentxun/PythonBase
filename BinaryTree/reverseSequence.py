@@ -67,8 +67,6 @@ class ReverseSeq:
                     queen.append(head.right)
 
 
-            queen.append()
-
 
 # 必须是完全二叉树
 def listcreattree(root,llist,i):###用列表递归创建二叉树，
@@ -81,3 +79,24 @@ def listcreattree(root,llist,i):###用列表递归创建二叉树，
             root.right=listcreattree(root.right, llist,2*i+2)
             return root
     return root
+
+
+def layerDeserialize(s):
+    if len(s)==1 and s[0]=='#':
+        return  None
+    queen =[]
+    head = TreeNode(s[0])
+    queen.append(head)
+    index =1
+    while index< len(s):
+        node = queen.pop(0)
+        if node != None:
+            left = TreeNode(s[index]) if s[index]!='#'else None
+            index +=1
+            queen.append(left)
+            node.left = left
+            right = TreeNode(s[index]) if s[index] != '#' else None
+            index += 1
+            queen.append(right)
+            node.right = right
+    return head

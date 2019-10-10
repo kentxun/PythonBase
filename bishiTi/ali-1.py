@@ -6,3 +6,4 @@ Board =[
 for i in range(len(Board)):
     for j in range(len(Board[0])):
         pass
+

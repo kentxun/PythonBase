@@ -11,3 +11,5 @@ class CountingSort:
                 A[n] = k
                 n+=1
         return A
+
+eval()
